@@ -1,0 +1,1 @@
+// useEventManager custom hook placeholder
